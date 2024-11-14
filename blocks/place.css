@@ -77,20 +77,6 @@
   background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 100%);
 }
 
-/* Modificadores del bloque 'place' */
-.place--gales {
-  /* Estilos específicos para 'place--gales' */
-}
-
-.place--berea {
-  /* Estilos específicos para 'place--berea' */
-}
-
-.place--burundi {
-  /* Estilos específicos para 'place--burundi' */
-}
-
-/* Media Queries para diseño responsivo */
 @media screen and (min-width: 768px) {
   .places {
     width: calc(100% - 48px);
