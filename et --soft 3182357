@@ -1,0 +1,19 @@
+[33m2ede3c1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m adding changes to block
+[33m3182357[m adding changes to block
+[33mbdae536[m adding changes to blockS
+[33m2ab7b6b[m remove unused CSS import for footer
+[33me0b4a69[m adjust font sizes for place elements in CSS
+[33m4a39200[m update styles and add new place entry for Cuernavaca, México
+[33m8d83392[m Merge branch 'feature/places'
+[33m72339ce[m[33m ([m[1;32mfeature/places[m[33m)[m adding css places
+[33m115e4ff[m adding text cards
+[33m9c13a90[m starting places card
+[33m44c0cf3[m[33m ([m[1;32mfeature/photo-grid[m[33m)[m adding image css
+[33m87c176c[m adding image section
+[33m77eece7[m Refactor font URLs to use relative paths
+[33m3961c6d[m Refactor CSS to separate intro and content blocks
+[33md6429d2[m Refactor CSS to separate intro and content blocks
+[33maeb6078[m Refactor README.md and update project description
+[33mcbac07b[m agregando media querys
+[33m7ce77be[m resolución 1024
+[33mf777ff9[m Initial commit
